@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="masterPage.master.cs" Inherits="Lusomundo.masterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+   <title></title>
+   <asp:ContentPlaceHolder ID="head" runat="server">
+   </asp:ContentPlaceHolder>
+   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" crossorigin="anonymous">
+   <link rel="stylesheet" href="style.css" />
+
+</head>
+<body class="master-body">
+
+   <!-- Header -->
+   <header>
+      <h1>Fabio Film's 2023</h1>
+      <!-- Adicione outros elementos do cabeçalho aqui -->
+   </header>
+
+   <!-- Conteúdo das páginas filhas será inserido aqui -->
+
+   <form id="form1" runat="server">
+      <div>
+         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+         </asp:ContentPlaceHolder>
+      </div>
+   </form>
+
+   <!-- Footer -->
+   <footer>
+      <p>&copy; 2023 Fabio Arrivabene</p>
+
+      <!-- Ícones de redes sociais -->
+      <div class="social-icons">
+         <a href="#" target="_blank"><i class="fab fa-facebook"></i></a>
+         <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
+         <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
+         <!-- Adicione mais ícones conforme necessário -->
+      </div>
+   </footer>
+</body>
+</html>

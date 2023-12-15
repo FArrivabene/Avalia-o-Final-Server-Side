@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cards>
+  <card>
+    <image>Fileme</image>
+    <title>O Poderoso Chefão</title>
+    <description>2h 55min / Policial, Drama.</description>
+    <link>https://www.youtube.com</link>
+    <category>M6</category>
+    <in_exhibition>Sim</in_exhibition>
+  </card>
+  <card>
+    <image>Fileme</image>
+    <title>A Lista de Schindler</title>
+    <description>3h 15min / Drama, Histórico.</description>
+    <link>https://www.youtube.com</link>
+    <category>M12</category>
+    <in_exhibition>Não</in_exhibition>
+  </card>
+  <card>
+    <image>Fileme</image>
+    <title>Um Sonho de Liberdade</title>
+    <description>2h 22min / Drama.</description>
+    <link>https://www.youtube.com</link>
+    <category>M16</category>
+    <in_exhibition>Sim</in_exhibition>
+  </card>
+  <card>
+    <image>Fileme</image>
+    <title>Forrest Gump</title>
+    <description>2h 20min / Romance, Drama.</description>
+    <link>https://www.youtube.com</link>
+    <category>M18</category>
+    <in_exhibition>Não</in_exhibition>
+  </card>
+  <card>
+    <image>Fileme</image>
+    <title>O Rei Leão</title>
+    <description>1h 29min / Animação, Aventura.</description>
+    <link>https://www.youtube.com</link>
+    <category>M18</category>
+    <in_exhibition>Sim</in_exhibition>
+  </card>
+  <card>
+    <image>Fileme</image>
+    <title>O Senhor dos Anéis</title>
+    <description>3h 21min / Fantasia, Aventura.</description>
+    <link>https://www.youtube.com</link>
+    <category>M18</category>
+    <in_exhibition>Sim</in_exhibition>
+  </card>
+  <card>
+    <image>Fileme</image>
+    <title>À Espera de um Milagre</title>
+    <description>3h 09min / Fantasia, Drama.</description>
+    <link>https://www.youtube.com</link>
+    <category>M18</category>
+    <in_exhibition>Não</in_exhibition>
+  </card>
+  <card>
+    <image>Fileme</image>
+    <title>A Vida é Bela</title>
+    <description>1h 57min / Comédia dramática.</description>
+    <link>https://www.youtube.com</link>
+    <category>M18</category>
+    <in_exhibition>Não</in_exhibition>
+  </card>
+</cards>
+
